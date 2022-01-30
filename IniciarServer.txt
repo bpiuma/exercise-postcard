@@ -1,0 +1,3 @@
+Ejecutar el siguiente código en la terminal:
+
+pip3 install flask && python3 server.py
